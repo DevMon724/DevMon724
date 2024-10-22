@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Uploading welcome.gif…]()
+![welcome](https://github.com/user-attachments/assets/e0b2f25f-ef30-4ef7-bdee-ce5e630b086b)
 
 ## My Skills 👍
 
