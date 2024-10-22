@@ -1,5 +1,6 @@
 ## Hi there 👋
-![welcome](https://github.com/user-attachments/assets/e0b2f25f-ef30-4ef7-bdee-ce5e630b086b)
+![welcome](https://github.com/user-attachments/assets/55808ec1-4bb4-4093-8233-e20290e58875)
+
 
 ## My Skills 👍
 
