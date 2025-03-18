@@ -1,5 +1,5 @@
 ## Hi there 👋
-![welcome](https://github.com/user-attachments/assets/55808ec1-4bb4-4093-8233-e20290e58875)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 
 
 ## My Skills 👍
